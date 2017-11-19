@@ -1,0 +1,2 @@
+# Osmano
+bash
